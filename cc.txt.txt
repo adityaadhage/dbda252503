@@ -1,0 +1,5 @@
+cloud computing is used to gain acceess to other os in virtual platform
+in cloud computing there are multiple service provided
+IAAS : infrastructure as a service
+PAAS : platform as a service
+SAAS : software as a service
